@@ -1,0 +1,10 @@
+1	 "Force  "	61	300	176
+2	 "Heatwave"	825	14	105
+3	 "Hustle"	853	221	28
+4	 "Justice League"64	18	268
+5	 "Lightning"	63	47	18
+6	 "Maniacs"	6	7	4
+7	 "Ninjas"	97	882	4
+8	 "Rebels"	44	14	49
+9	 "Ringmasters"	53	55	88
+10	 "Tribe"	442	78	40
